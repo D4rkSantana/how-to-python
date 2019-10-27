@@ -6,8 +6,8 @@ Bom, vamos começar do basico...
 
 <h2>° O que é Python?</h2>
 
-	Python é uma linguagem de programação de auto nivel, nela podemos empregar diversos paradigmas e fazer inimaginaveis tipos de projetos, uma dadiva dos deuses!
-	Caso queira saber mais sobre a historia da liguagem, pesquise no grande oraculo chamado Google :D
+<p align="left">Python é uma linguagem de programação de auto nivel, nela podemos empregar diversos paradigmas e fazer inimaginaveis tipos de projetos, uma dadiva dos deuses!</p>  
+<p>Caso queira saber mais sobre a historia da liguagem, pesquise no grande oraculo chamado Google :D</p>
 
 <h2>° Como iniciar?</h2>
 
