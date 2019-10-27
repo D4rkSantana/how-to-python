@@ -1,4 +1,6 @@
-<h1>00 - O Inicio</h1>
+<h1 align="center">00 - O Inicio</h1>
+
+![Foto de uma serpente python na cor verde](https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/shutterstock_315465929.jpg)
 
 Bom, vamos começar do basico...
 
