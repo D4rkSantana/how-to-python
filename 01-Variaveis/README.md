@@ -28,16 +28,16 @@ Mesmo sendo extremamente simples criar uma variavel, isso daqui não é bagunça
 
 Podemos imprimir no terminal uma variavel de maneira muito facil, vou exemplificar de dois modos:
 
->print(caixa)
+>print(caixa)  
 *Desse modo, sera impresso o valor da variavel de maneira simples*
->print("O conteudo da caixa é: " + caixa)
+>print("O conteudo da caixa é: " + caixa)  
 *Desse modo, estamos concatenando o valor da variavel com uma frase, para isso utilizamos o sinal "+"*
 
 Igualmente é possivel receber o valor de uma variavel atravez do terminal, onde o usuario ira digitar, o modo mais simples é:
 
->caixa = input()
-*simplismente ira captar o que o usuario digitar e apertar enter para enviar
->caixa = input("Digite algo")
+>caixa = input()  
+*simplismente ira captar o que o usuario digitar e apertar enter para enviar  
+>caixa = input("Digite algo")  
 *Desse modo, o usuario recebera a mensagem antes de captar o valor digitado, desse modo é possivel expecificar o que se deseja receber*
 
 ## Manipulações
