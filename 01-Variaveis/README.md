@@ -40,7 +40,7 @@ Igualmente é possivel receber o valor de uma variavel atravez do terminal, onde
 
 >caixa = input()
 
-*simplismente ira captar o que o usuario digitar e apertar enter para enviar
+*simplismente ira captar o que o usuario digitar e apertar enter para enviar*
 
 >caixa = input("Digite algo")
 
