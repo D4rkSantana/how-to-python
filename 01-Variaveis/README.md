@@ -63,13 +63,13 @@ Podemos concatenar variaveis
 
 Podemos receber em uma variavel os seguintes tipos
 
-*int - Numeros Interios
-*float - Numeros quebrados
-*double - Numeros com virgula (similar ao float)
-*string - Conjunto de caracteres, frases, palavras e tals
-*char - Caracteres unitarios, somente uma letra
-*bool - Booleanos, basicamente Verdadeiro e falso
+* int - Numeros Interios
+* float - Numeros quebrados
+* double - Numeros com virgula (similar ao float)
+* string - Conjunto de caracteres, frases, palavras e tals
+* char - Caracteres unitarios, somente uma letra
+* bool - Booleanos, basicamente Verdadeiro e falso
 
-*existem muitos outros, mas vamos começar com esses ;P *
+*existem muitos outros, mas vamos começar com esses ;P*
 
 ## Fim !!1
