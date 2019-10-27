@@ -14,12 +14,12 @@ Caso queira saber mais sobre a historia da liguagem, pesquise no grande oraculo 
 
 Para começar com o python, vc deve instalar em sua maquina o Python3, se estiver usando um linux, de os seguintes comandos:
 	
->"sudo apt-get update"  
->"sudo apt-get install python3"
+>sudo apt-get update  
+>sudo apt-get install python3
 		
 A maior parte dos sistemas Linux já vem com ele instalado, então verifica antes, só ultilizar o comando:
 	
->"which python3"
+>which python3
 		
 *Qualquer dificuldade para instalar, pode procurar no google ou youtube que existem 1000000 de tutoriais.*
 
@@ -29,7 +29,7 @@ Bom, eu ultilizo muito o terminal para programar, então vou mostrar como faço 
 	
 Para abrir o editor e criar o primeiro script, só digitar o comando "vim" e o nome do arquivo (para editar posteriormente é da mesma forma.
 	
->"vim script00.py"
+>vim script00.py
 		
 *Note que precisa do ".py" no fim do nome, isso é muito importante!*
 	
@@ -37,7 +37,7 @@ Para começar a digitar, só apertar o botão "i" no seu teclado, e para parar, 
 
 Vamos começar, faremos um script que imprima no terminal a frase "Ola mundo!" para isso vamos simplismente digitar dentro do arquivo o seguinte comando:
 
->"print("Ola Mundo!")"
+>print("Ola Mundo!")
 		
 *Pode salvar e sair, e iremos executar para testar.*
 
@@ -45,7 +45,7 @@ Vamos começar, faremos um script que imprima no terminal a frase "Ola mundo!" p
 
 Simples, só falar para o terminal o seguinte:
 	
->"python3 arquivo.py"
+>python3 arquivo.py
 
 *(Não se esqueça de por o nome do seu arquivo, no caso dessa aula, sera o "script00.py")*
 
