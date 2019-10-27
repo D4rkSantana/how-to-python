@@ -16,13 +16,13 @@ No python não existe a nessecidade de expecificar o que sera colocado dentro, s
 
 Mesmo sendo extremamente simples criar uma variavel, isso daqui não é bagunça, existem regas a serem seguidas...
 
-*Variaveis não podem ter o nome com numeros no inicio
+* Variaveis não podem ter o nome com numeros no inicio
 
-*Variaveis precisam ser inicializadas antes de serem utilizadas
+* Variaveis precisam ser inicializadas antes de serem utilizadas
 
-*Variaves não podem conter caracteres especias nem a letra "ç" em seu nome
+* Variaves não podem conter caracteres especias nem a letra "ç" em seu nome
 
-*Não é permitido o uso de nomes reservados para gerar variaveis
+* Não é permitido o uso de nomes reservados para gerar variaveis
 
 ## Imprimindo e recebendo variaveis
 
