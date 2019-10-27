@@ -1,4 +1,4 @@
-#00 - O Inicio
+00 - O Inicio
 
 Bom, vamos começar do basico...
 
