@@ -2,12 +2,12 @@
 
 Bom, vamos começar do basico...
 
-° O que é Python?
+<h2>° O que é Python?</h2>
 
 	Python é uma linguagem de programação de auto nivel, nela podemos empregar diversos paradigmas e fazer inimaginaveis tipos de projetos, uma dadiva dos deuses!
 	Caso queira saber mais sobre a historia da liguagem, pesquise no grande oraculo chamado Google :D
 
-° Como iniciar?
+<h2>° Como iniciar?</h2>
 
 	Para começar com o python, vc deve instalar em sua maquina o Python3, se estiver usando um linux, de os seguintes comandos:
 	
@@ -20,7 +20,7 @@ Bom, vamos começar do basico...
 		
 	Qualquer dificuldade para instalar, pode procurar no google ou youtube que existem 1000000 de tutoriais.
 
-° Meu primeiro Script
+<h2>° Meu primeiro Script</h2>
 
 	Bom, eu ultilizo muito o terminal para programar, então vou mostrar como faço isso aqui, mas pode ser utilizada uma IDE de sua preferencia sem nenhum problema!
 	
@@ -38,12 +38,12 @@ Bom, vamos começar do basico...
 		
 		Pode salvar e sair, e iremos executar para testar.
 
-°Como executar um script?
+<h2>°Como executar um script?</h2>
 
 	Simples, só falar para o terminal o seguinte:
 	
-		"python3 arquivo.py"
+		<b>"python3 arquivo.py"</b>
 
 	Ele ira executar (Não se esqueça de por o nome do seu arquivo, no caso dessa aula, sera o "script00.py")
 
-Fim :D 
+<h2>Fim :D</h2>
