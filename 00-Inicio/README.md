@@ -13,8 +13,8 @@ Bom, vamos começar do basico...
 
 <p align="left">	Para começar com o python, vc deve instalar em sua maquina o Python3, se estiver usando um linux, de os seguintes comandos:</p>
 	
-		>"sudo apt-get update"*
-		>"sudo apt-get install python3"*
+		>"sudo apt-get update"
+		>"sudo apt-get install python3"
 		
 <p align="left">	A maior parte dos sistemas Linux já vem com ele instalado, então verifica antes, só ultilizar o comando:</p>
 	
