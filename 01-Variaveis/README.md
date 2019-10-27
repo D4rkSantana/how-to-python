@@ -1,6 +1,6 @@
 # 01 - Variaveis
 
-![Imagem de uma caixa de papelão aberta e vazia](https://static.turbosquid.com/Preview/2014/07/11__15_44_46/CardboardBox_Rr_01.jpg75013e64-c71a-450f-966c-9671c536e4d1Original.jpg)
+![Imagem de uma caixa de papelão aberta e vazia](http://www.desouzabrown.com/wp-content/uploads/2014/07/wpid-boxes.png)
 
 ## O que é uma variavel?
 
