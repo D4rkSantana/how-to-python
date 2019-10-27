@@ -10,7 +10,7 @@ No python não existe a nessecidade de expecificar o que sera colocado dentro, s
 
 >caixa = "sapatos"
 
-*Nesse exemplo, criamos uma variavel chamada **caixa** e dentro colocamos a palavra **sapatos** *
+*Nesse exemplo, criamos uma variavel chamada **caixa** e dentro colocamos a palavra **sapatos***
 
 ## Regras das variaveis
 
