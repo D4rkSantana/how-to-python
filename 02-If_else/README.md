@@ -9,7 +9,7 @@ Vamos falar a considicional if else
 If é uma condicional que pode ser "Traduzido" como "Caso", nessa função nós colocamos uma considição, e caso ela seja verdadeira, os comandos passados serão executados
 
 >if(condição)  
->    print()  
->    print()  
+>print()  
+>print()  
 
 *no local onde tem a condição, precisa ser passado algo que resulte em **verdadeiro** ou **falso***
