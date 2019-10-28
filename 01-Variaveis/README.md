@@ -78,4 +78,16 @@ Podemos receber em uma variavel os seguintes tipos
 
 *existem muitos outros, mas vamos começar com esses ;P*
 
+É possivel indentificar qual o tipo de um conteudo ultilizando o comando type(), como nos seguintes exemplos
+
+>type("sting")  
+>type(123)  
+>type(12.4)  
+>print(type("ola"))  
+
+>caixa = "sapatos"  
+>type(caixa)  
+
+*podemos colocar variaveis tb*
+
 ## Fim !!1
