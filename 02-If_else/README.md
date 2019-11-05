@@ -9,26 +9,26 @@ Vamos falar a considicional if else
 **If** é uma condicional que pode ser traduzido como **"Se"**, nessa função nós colocamos uma considição, e caso ela seja verdadeira, os comandos passados serão executados
 
 >if(condição):  
-><tab>print()  
-><tab>print()  
+>====print()  
+>====print()  
 
 *no local onde tem a condição, precisa ser passado algo que resulte em **verdadeiro** ou **falso***
 
 **Else** é uma segunda considiconal usada para complementar o If, pode ser traduzida como **"Senão"**, e seus comandos serão executados caso a condicional do if seja falsa
 
 >if(condição):  
-><tab>print()  
-><tab>print()  
+>====print()  
+>====print()  
 >else:  
-><tab>print()  
+>====print()  
 
 Outro caso que temos é o **Elif**, ele é a junção do If e Else, então ele deve ser usado depois de um IF, e caso esse seja false, ele sera executado caso a sua consição seja verdadeira, e pode ter um else depois dele.
 
 >if(condição):  
-><tab>print()  
-><tab>print()  
+>====print()  
+>====print()  
 >elif(condição):  
-><tab>print()  
-><tab>print()  
+>====print()  
+>====print()  
 >else:  
-><tab>print()  
+>====print()  
