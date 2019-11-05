@@ -26,3 +26,15 @@ exemplo:
 >====print(x)  
 
 *desse modo sera impresso letra por letra até o final da string*
+
+## Else
+
+Pera, else? SIM!
+No python podemos ultilizar else com laços, de maneira igual ao if
+
+>for x in str:  
+>====print(x)  
+>else:  
+>====print("\n")
+
+Nesse caso, o else sera executado quando o laço de repetição se encerrar
