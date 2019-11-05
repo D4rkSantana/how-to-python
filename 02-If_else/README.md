@@ -1,4 +1,4 @@
-# 02 - If Else
+# 02 - If Elif Else
 
 ![Imagen de uma estrada bifurcada](http://4.bp.blogspot.com/_qwY92APiI1I/TN5YxJ40zPI/AAAAAAAAABc/lvqYWuokCH0/s1600/bifurcacao1.jpg)
 
