@@ -9,7 +9,7 @@ No python temos 2 tipos de laços de repetição, o **while** e o **for**
 O while se baseia em repetir um conjunto de comandos enquanto a condição passada for verdadeira
 
 >i = 0  
->while(i < 5):  
+>while i < 5:  
 >====print(i)  
 >====i = i + 1  
 
