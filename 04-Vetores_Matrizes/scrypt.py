@@ -1,5 +1,5 @@
-vector = [1, 2, 3, 4, 5, 6]
-for x in vector:
+lista = [1, 2, 3, 4, 5, 6]
+for x in lista:
     print(x)
 v = [" ", " ", " "]
 v[0] = "batata"
