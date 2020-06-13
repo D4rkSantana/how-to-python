@@ -14,7 +14,7 @@ No python não existe a nessecidade de expecificar o que sera colocado dentro, s
 
 ## Regras das variaveis
 
-Mesmo sendo extremamente simples criar uma variavel, isso daqui não é bagunça, existem regas a serem seguidas...
+Mesmo sendo extremamente simples criar uma variavel, isso aqui não é bagunça, existem regas a serem seguidas...
 
 * Variaveis não podem ter o nome com numeros no inicio
 
